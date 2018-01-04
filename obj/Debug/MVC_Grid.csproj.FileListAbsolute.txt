@@ -1,0 +1,153 @@
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\ApplicationInsights.config
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\csc.exe
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\vbc.exe
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\VBCSCompiler.exe
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\MVC_Grid.dll.config
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\MVC_Grid.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\MVC_Grid.pdb
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\GridMvc.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Web.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.ApplicationInsights.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Helpers.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Mvc.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Razor.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Deployment.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Razor.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Web.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.ApplicationInsights.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Razor.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Deployment.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Razor.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Helpers.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\System.Web.Mvc.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.pdb
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\EntityFramework.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\EntityFramework.SqlServer.dll
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\EntityFramework.xml
+C:\Users\murat\Desktop\MVC_Grid\MVC_Grid\bin\EntityFramework.SqlServer.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\ApplicationInsights.config
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\csc.exe
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\vbc.exe
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\VBCSCompiler.exe
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\MVC_Grid.dll.config
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\MVC_Grid.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\MVC_Grid.pdb
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.SqlServer.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\GridMvc.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Web.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.ApplicationInsights.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Helpers.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Mvc.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Razor.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Deployment.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Razor.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.SqlServer.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Web.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.ApplicationInsights.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Razor.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Deployment.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Razor.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Helpers.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\bin\System.Web.Mvc.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\Grid\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.pdb
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\ApplicationInsights.config
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\csc.exe
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\vbc.exe
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\VBCSCompiler.exe
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\MVC_Grid.dll.config
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\MVC_Grid.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\MVC_Grid.pdb
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.SqlServer.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\GridMvc.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Web.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.ApplicationInsights.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Helpers.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Mvc.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Razor.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Deployment.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Razor.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\EntityFramework.SqlServer.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.Web.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.ApplicationInsights.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Razor.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Deployment.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Webpages.Razor.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Helpers.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\bin\System.Web.Mvc.xml
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.dll
+C:\Users\murat\Desktop\Bilge Adam Yazılım Müfredat Örnekleri\8) Asp.Net MVC\7) Grid\MVC_Grid\MVC_Grid\obj\Debug\MVC_Grid.pdb
